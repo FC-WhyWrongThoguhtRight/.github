@@ -9,7 +9,7 @@
 
 > 링크: [https://edu.nextstep.camp/s/RFY359FE](https://edu.nextstep.camp/s/RFY359FE)
 > 
-> 위 강의 내용을 바탕으로 매주 한 개의 미션을 완료하여 총 4주동안 진행합니다.
+> 위 강의 내용을 바탕으로 매주 한 개의 미션을 총 4주동안 진행합니다.
 
 * 1주차: 숫자 야구 게임 (단위테스트)
   * [https://github.com/FC-WhyWrongThoguhtRight/java-baseball-playground](https://github.com/FC-WhyWrongThoguhtRight/java-baseball-playground)
