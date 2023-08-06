@@ -11,8 +11,7 @@
 > 
 > 위 강의 내용을 바탕으로 매주 한 개의 미션을 총 4주동안 진행합니다.
 
-* 1주차: 숫자 야구 게임 (단위테스트)
-  * [https://github.com/FC-WhyWrongThoguhtRight/java-baseball-playground](https://github.com/FC-WhyWrongThoguhtRight/java-baseball-playground)
+* 1주차: [숫자 야구 게임](https://github.com/FC-WhyWrongThoguhtRight/java-baseball-playground) (단위테스트)
   * 현재 진행중
 * 2주차: 자동차 경주 (TDD)
 * 3주차: 좌표 계산기 (상속, 인터페이스)
