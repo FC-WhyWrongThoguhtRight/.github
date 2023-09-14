@@ -10,8 +10,9 @@
 > 링크: [https://edu.nextstep.camp/s/RFY359FE](https://edu.nextstep.camp/s/RFY359FE)
 > 
 > 위 강의 내용을 바탕으로 매주 한 개의 미션을 총 4주동안 진행합니다.
+> 9월 14일 완료
 
 * 1주차: [숫자 야구 게임](https://github.com/FC-WhyWrongThoguhtRight/java-baseball-playground) (단위테스트)
 * 2주차: [자동차 경주](https://github.com/FC-WhyWrongThoguhtRight/java-racingcar-playground) (TDD)
 * 3주차: [좌표 계산기](https://github.com/FC-WhyWrongThoguhtRight/java-coordinate-playground) (상속, 인터페이스)
-* 4주차: [블랙잭](https://github.com/FC-WhyWrongThoguhtRight/java-blackjack-playground) (함수형 프로그래밍) // 현재 진행중
+* 4주차: [블랙잭](https://github.com/FC-WhyWrongThoguhtRight/java-blackjack-playground) (함수형 프로그래밍)
