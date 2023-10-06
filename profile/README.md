@@ -3,9 +3,11 @@
 * 패스트캠퍼스 야놀자 테크스쿨의 스터디 그룹 10조 '맞왜틀'팀
 * 서원빈, 김종훈, 김진홍, 고동훤, 노재혁
 
-## 스터디 내용
+## (진행중) 중고마켓 플랫폼 프로젝트
 
-### 자바 플레이그라운드 with TDD, 클린코드
+https://github.com/FC-WhyWrongThoguhtRight/MWT-Market
+
+## (완료) 자바 플레이그라운드 with TDD, 클린코드
 
 > 링크: [https://edu.nextstep.camp/s/RFY359FE](https://edu.nextstep.camp/s/RFY359FE)
 > 
